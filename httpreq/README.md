@@ -1,3 +1,14 @@
+# Challenge question
+Create a HTTP get call to get the data from MockServer
+Create a class component
+Make a HTTP get call to the mock server on button click
+Fetch the data and map the list of data to the JSX
+Display the data as an unordered list of names
+Create a HTTP post call to post the data to the mock server
+To the above component, implement a button inside each list item
+Implement the onClick functionality based on user id and pass the data object to the server using HTTP post-call 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
